@@ -1,16 +1,58 @@
-# React + Vite
+![React](https://img.shields.io/badge/React-19-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Resume Analyzer
 
-Currently, two official plugins are available:
+An AI-powered Resume Analyzer that compares resumes with job descriptions and generates an ATS-style report with actionable suggestions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+Upload Resume (PDF)
+Extract Resume Text using PDF.js
+Paste Job Description
+AI-powered Resume Analysis
+ATS Compatibility Score
+Missing Skills Detection
+Strengths & Weaknesses Analysis
+Personalized Improvement Suggestions
+Modern SaaS Dashboard UI
+Responsive Design
+Loading & Error States
+🛠 Tech Stack
+React.js
+Tailwind CSS
+Vite
+PDF.js
+Gemini API
+React Hooks
+📸 Screenshots
 
-## React Compiler
+Add screenshots here
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Live Demo
 
-## Expanding the ESLint configuration
+(https://airesumeanalyzer7089.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💻 Installation
+
+git clone https://github.com/username/resume-analyzer-frontend.git
+cd resume-analyzer
+npm install
+npm run dev
+
+
+🎯 Learning Outcomes
+AI API Integration
+PDF Parsing
+Component-Based Architecture
+State Management
+Responsive UI Design
+API Error Handling
+Modern React Development
+Future Improvements
+Authentication
+Resume History
+Export Report as PDF
+Multiple Resume Comparison
+Dark Mode
