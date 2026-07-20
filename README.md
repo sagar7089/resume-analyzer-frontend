@@ -26,9 +26,7 @@ Vite
 PDF.js
 Gemini API
 React Hooks
-📸 Screenshots
 
-Add screenshots here
 
 🚀 Live Demo
 
