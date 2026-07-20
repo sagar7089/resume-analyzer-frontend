@@ -34,7 +34,7 @@ React Hooks
 
 💻 Installation
 
-git clone https://github.com/username/resume-analyzer-frontend.git
+git clone https://github.com/sagar7089/resume-analyzer-frontend.git
 cd resume-analyzer
 npm install
 npm run dev
